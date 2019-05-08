@@ -3,9 +3,6 @@
 
 # In[119]:
 
-
-# Name- 1. Barshana Banerjee, 2. Hemanth Kumar Reddy Mayaluru
-
 from PIL import Image,ImageEnhance
 import cv2
 import numpy as np
