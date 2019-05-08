@@ -1,7 +1,5 @@
 ''' 
-Submitted By: 
-	Hemanth Kumar Reddy Mayaluru
-	Barshana Banerjee
+
 '''
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
