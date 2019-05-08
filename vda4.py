@@ -3,9 +3,6 @@
 
 # In[47]:
 
-
-# Name- 1. Barshana Banerjee, 2. Hemanth Kumar Reddy Mayaluru
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
