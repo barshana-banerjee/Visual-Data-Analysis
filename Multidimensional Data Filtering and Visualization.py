@@ -1,8 +1,4 @@
-'''
-Submitted by:
-Barshana Banerjee
-Hemanth Kumar Reddy Mayaluru
-'''
+
 
 import numpy as np
 import pandas as pd
